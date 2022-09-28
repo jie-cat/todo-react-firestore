@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. `yarn create react-app todo-react-firebase`
 2. tailwincss step by step 
   https://tailwindcss.com/docs/guides/create-react-app
-3. 註冊Firebase建立todos資料庫
+3. `yarn add firebase`
 
 ## System architecture
 
