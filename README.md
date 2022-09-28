@@ -2,9 +2,29 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+使用ReactJS開發, 並使用TaiwindCSS快速建置UI, 透過Firebase串接資料實做基本CRUD
+
+<div align="center"><img src="https://github.com/jie-cat/todo-react-firebase/blob/main/src/assets/todoapp.png" width="80%"></div>
+<div align="center"><img src="https://github.com/jie-cat/todo-react-firebase/blob/main/src/assets/firebase.png" widtH="80%"></div>
+
+## Requirement
+
+前端（Frontend）：NVM、Yarn、Node.js
+
+後端（Backend）：Firebase
+
+## Build Setup (Local)
+
+1. `yarn create react-app todo-react-firebase`
+2. tailwincss step by step 
+  https://tailwindcss.com/docs/guides/create-react-app
+3. 註冊Firebase建立todos資料庫
+
+## System architecture
+
+<div align="center"><img src="https://github.com/jie-cat/todo-react-firebase/blob/main/src/assets/architecture.jpg" width=60%></div>
 
 ### `yarn start`
 
