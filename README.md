@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-使用ReactJS開發, 並使用TaiwindCSS快速建置UI, 透過Firebase串接資料實做基本CRUD
+使用ReactJS開發, 並使用TailwindCSS快速建置UI, 透過Firebase串接資料實做基本CRUD
 
 <div align="center"><img src="https://github.com/jie-cat/todo-react-firebase/blob/main/src/assets/todoapp.png" width="80%"></div>
 <div align="center"><img src="https://github.com/jie-cat/todo-react-firebase/blob/main/src/assets/firebase.png" widtH="80%"></div>
